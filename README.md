@@ -44,6 +44,12 @@ Each of these projects have separatte files. The following is the navigation of 
                                          - 3. projects.html
                                          - 4. resume.pdf
                                          - 5. profile.jpg
+                                         - 6. project41.png
+                                         - 7. project42.png
+                                         - 8. project43.png
+                                         - 9. project44.png
+                                         - 10. project45.png
+
        ~ Temperature convertor - 1. temp.html
                                - 2. temp.css
                                - 3. script.js
