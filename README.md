@@ -14,7 +14,7 @@ Thera are totally 7 projects. to run all of them, download them and run it.
 2. Portfolio (personal portfolio)
 3. Temperature convertor
 
-Each of these projects have separatte files. The following is the navigation of these projects and files.
+Each of these projects have separate files. The following is the navigation of these projects and files.
 ~ OIBSIP (repository)
 
     ~ Python intership projects
